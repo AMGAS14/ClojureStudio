@@ -1,6 +1,5 @@
 
-
-
+;; This program displays Hello World
 
 
 (ns clojure.examples.hello
